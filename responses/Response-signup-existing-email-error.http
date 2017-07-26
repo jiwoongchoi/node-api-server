@@ -1,0 +1,10 @@
+HTTP/1.1 409 Conflict
+X-Powered-By: Express
+Access-Control-Allow-Origin: *
+Content-Type: application/json; charset=utf-8
+Content-Length: 106
+ETag: W/"6a-EzvnsomepagLgBsRPpSUUDdT2iY"
+Date: Thu, 06 Jul 2017 01:35:03 GMT
+Connection: keep-alive
+
+{"success":false,"message":"Check the form for errors.","errors":{"email":"This email is already taken."}}

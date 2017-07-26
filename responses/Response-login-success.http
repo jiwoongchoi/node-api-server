@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Access-Control-Allow-Origin: *
+Content-Type: application/json; charset=utf-8
+Content-Length: 231
+ETag: W/"e7-+GAGZ92SO3KdrXJt2i+dWmRLr+Y"
+Date: Thu, 06 Jul 2017 01:42:26 GMT
+Connection: keep-alive
+
+{"success":true,"message":"You have successfully logged in!","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1OTVkOTM0N2UyNjJhNzU1NDE3YzI3NWIiLCJpYXQiOjE0OTkzMDUzNDZ9.c9QdltvkAkUtwXzaB9kBZh_pSKha1dwEMbKh3bqLbHA","user":{}}
